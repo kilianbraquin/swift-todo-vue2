@@ -1,0 +1,24 @@
+{
+  "name": "swift-todo-vue2",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "short-unique-id": "^5.2.0",
+    "vue": "2.7.14",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@catppuccin/tailwindcss": "^0.1.6",
+    "@vitejs/plugin-vue2": "^2.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "prettier": "^3.3.2",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.3"
+  }
+}
